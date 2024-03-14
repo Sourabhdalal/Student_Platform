@@ -1,0 +1,17 @@
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\bin\Debug\net8.0\BAL.deps.json
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\bin\Debug\net8.0\BAL.dll
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\bin\Debug\net8.0\BAL.pdb
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\bin\Debug\net8.0\BOL.dll
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\bin\Debug\net8.0\DAL.dll
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\bin\Debug\net8.0\BOL.pdb
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\obj\Debug\net8.0\BAL.csproj.CopyComplete
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\obj\Debug\net8.0\BAL.dll
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\obj\Debug\net8.0\refint\BAL.dll
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\obj\Debug\net8.0\BAL.pdb
+C:\Users\IET\Desktop\DotNot\DATABASEMVC\BAL\obj\Debug\net8.0\ref\BAL.dll
